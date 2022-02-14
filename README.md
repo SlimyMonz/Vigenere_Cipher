@@ -1,4 +1,4 @@
-# Vigenere_Cipher
+# Vigenere Cipher
 
 Purpose: Encrypting a plaintext file using the Vignere Cipher algorithm.
 
