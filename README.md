@@ -1,6 +1,6 @@
 # Vigenere_Cipher
 
- |  Purpose: Encrypting a plaintext file using the Vignere Cipher algorithm.
+ |  Purpose: Encrypting a plaintext file using the Vignere Cipher algorithm. \n
  |
  |  Creator: Harry James Hocker
  |  Date: October 2, 2021
