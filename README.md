@@ -2,9 +2,9 @@
 
 Purpose: Encrypting a plaintext file using the Vignere Cipher algorithm.
 
-Creator: Harry James Hocker__
-Date: October 2, 2021__
-Language: C__
+Creator: Harry James Hocker\
+Date: October 2, 2021\
+Language: C\
 
 To Compile: gcc -o cipher cipher.c
 
